@@ -69,7 +69,10 @@ h1 {
   font-size: 3em;
 }
 
+a {
+  color: #111;
+}
+
 #content {
   margin:10px;
-  
 }
